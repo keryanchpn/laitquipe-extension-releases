@@ -1,0 +1,12 @@
+{
+    "addons": {
+        "laitquipe@laitquipe.fr": {
+            "updates": [
+                {
+                    "version": "1.1",
+                    "update_link": "https://github.com/keryanchpn/laitquipe/releases/download/1.1/laitquipe-1.1.xpi"
+                }
+            ]
+        }
+    }
+}
