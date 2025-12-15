@@ -33,6 +33,10 @@
         {
           "version": "1.13",
           "update_link": "https://github.com/keryanchpn/laitquipe-extension-releases/releases/download/v1.13/laitquipe-1.13.xpi"
+        },
+        {
+          "version": "1.14",
+          "update_link": "https://github.com/keryanchpn/laitquipe-extension-releases/releases/download/v1.14/laitquipe-1.14.xpi"
         }
       ]
     }
